@@ -1,0 +1,16 @@
+{
+    "RepetitionTime": 0.081,
+    "EchoTime": 0.037,
+    "PhaseEncodingDirection": [
+        "i-",
+        "j-"
+    ],
+    "ParallelAcquisitionTechnique": "SENSE",
+    "ParallelReductionFactorInPlan": [
+        1,
+        1.5
+    ],
+    "FlipAngle": 8,
+    "WaterFatShift": 2.268,
+    "PulseSequenceType": "3D fast-field echo"
+}
