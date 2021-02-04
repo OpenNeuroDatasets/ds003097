@@ -116,5 +116,14 @@
   },
   "STAI_T": {
     "Description": "Trait anxiety (from the state-trait anxiety inventory)"
+  },
+  "DWI_TR_run1": {
+    "Description": "Repetition Time (TR) for the first DWI scan (if this scan doesn't exist for a subject, it is coded 'n/a')"
+  },
+  "DWI_TR_run2": {
+    "Description": "Repetition Time (TR) for the second DWI scan (if this scan doesn't exist for a subject, it is coded 'n/a')"
+  },
+  "DWI_TR_run3": {
+    "Description": "Repetition Time (TR) for the third DWI scan (if this scan doesn't exist for a subject, it is coded 'n/a')"
   }
 }
