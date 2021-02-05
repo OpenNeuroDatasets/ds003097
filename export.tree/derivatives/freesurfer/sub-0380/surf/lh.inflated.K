@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/MK/ZM/MD5E-s544071--a343048cb5897c395cff1ad33f27e7db.K/MD5E-s544071--a343048cb5897c395cff1ad33f27e7db.K
