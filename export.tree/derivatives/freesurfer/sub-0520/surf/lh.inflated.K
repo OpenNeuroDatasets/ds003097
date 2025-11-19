@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/fj/Mz/MD5E-s599647--4591c9695071ab39f03b5a1bd9f370ce.K/MD5E-s599647--4591c9695071ab39f03b5a1bd9f370ce.K
