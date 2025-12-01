@@ -1,0 +1,13 @@
+{
+    "name": {
+        "Description": "Name of brain region (prepended by 'left' or 'right', indicating hemisphere)"
+    },
+    "volume": {
+        "Description": "Volume of a given brain area",
+        "Units": "mm^3"
+    },
+    "intensity-avg": {
+        "Description": "Average signal intensity of a given brain area",
+        "Units": "A.U."
+    }
+}

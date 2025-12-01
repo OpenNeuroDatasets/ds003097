@@ -1,0 +1,21 @@
+{
+    "name": {
+        "Description": "Name of brain region (when appropraite, prepended by 'Left' or 'Right', indicating hemisphere)"
+    },
+    "volume": {
+        "Description": "Volume of a given brain area",
+        "Units": "mm^3"
+    },
+    "area": {
+        "Description": "Surface area of a given brain area",
+        "Units": "mm^2"
+    },
+    "meancurv": {
+        "Description": "Integrated rectified mean curvature of a given brain area",
+        "Units": "mm^-1"
+    },
+    "thickness": {
+        "Description": "Thickness of a given brain area",
+        "Units": "mm"
+    }
+}
