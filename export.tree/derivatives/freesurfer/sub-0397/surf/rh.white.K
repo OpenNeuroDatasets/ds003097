@@ -1,1 +1,0 @@
-../../../../.git/annex/objects/0k/M1/MD5E-s602003--dbaac0f708eda8805a83699e7cfd9cd3.K/MD5E-s602003--dbaac0f708eda8805a83699e7cfd9cd3.K
